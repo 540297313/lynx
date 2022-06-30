@@ -21,6 +21,16 @@ h4 {
     font-size: 1.66em;
 }
 
+h5 {
+    font-family: 'Merriweather', serif;
+    font-size: 1.33em;
+}
+
+h6 {
+    font-family: 'Merriweather Black', serif;
+    font-size: 1em;
+}
+
 p {
     font-family: 'Merriweather', Verdana, serif;
 }
@@ -158,6 +168,11 @@ body, html {
     color: #FFF8E1;
 }
 
+.habitat-div{
+    padding-left: 3em;
+
+}
+
 .habitat-tekstvak{
     background-color: #ffecb3;
     padding: 2em;
@@ -199,6 +214,7 @@ body, html {
 .stakeholder-div{
     padding: 3em;
     margin-bottom: 2em;
+    min-height: 10em;
 }
 
 #stakeholder-1{
@@ -218,14 +234,6 @@ body, html {
 
 #stakeholder-4{
     background-color: #795548;
-    color: #FFF8E1;
-}
-
-
-/* INTERACTIEVE KAART */
-
-.kaart-dia{
-    background-color: #e74c3c;
     color: #FFF8E1;
 }
 
@@ -271,7 +279,11 @@ body, html {
 }
 
 .kaartknoppen{
-    padding: 3em;
+    /*padding: 3%;*/
+}
+
+.kaart{
+    /*padding: 3%;*/
 }
 
 .noBullet {
@@ -283,18 +295,20 @@ body, html {
 }
 
 .mapButton {
-    border: solid 1px black;
-    padding: 5px;
+    padding: 2em;
     margin-bottom: 1em;
+    border: none;
     border-radius: 0px;
 }
 
 .mapButton:hover {
-    background-color: lightgrey;
+    background-color: #FFECB3 !important;
+    color: #2C3E50 !important;
 }
 
 .active {
-    background-color: lightgrey;
+    background-color: #FFECB3 !important;
+    color: #2C3E50 !important;
 }
 
 .mapButtonTitle {
@@ -305,23 +319,46 @@ body, html {
     margin-bottom: 3px;
 }
 
-.padding3L {
-    padding-left: 3%;
-}
-
-.padding3R {
-    padding-right: 3%;
-}
-
 .seperator {
     display: block;
     overflow: hidden;
     border-style: inset;
-    border-width: 1px;
+    border-width: 2px;
     margin-top: 4%;
     margin-bottom: 4%;
-    color: lightgrey;
+    color: #FFECB3;
 }
+
+#buttonNatuur{
+    background-color: #558b2f;
+    color: #FFF8E1;
+}
+
+#buttonOmwonenden{
+    background-color: #e74c3c;
+    color: #FFF8E1;
+}
+
+#buttonToerisme{
+    background-color: #2980b9;
+    color: #FFF8E1;
+}
+
+#buttonLandbouw{
+    background-color: #795548;
+    color: #FFF8E1;
+}
+
+#button1111{
+    background-color: #24495E;
+    color: #FFF8E1;
+}
+
+#button5311{
+    background-color: #24495E;
+    color: #FFF8E1;
+}
+
 
 
 

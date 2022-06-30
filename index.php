@@ -18,8 +18,8 @@
     <link rel="stylesheet" href="/lynx/css/style.css">
 
     <!-- Interactieve kaart -->
-<!--    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"-->
-<!--          integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">-->
+    <!--    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"-->
+    <!--          integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">-->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
           integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
           crossorigin=""/>
@@ -49,6 +49,7 @@
                     <li class="nav-item"><a class="nav-link" href="#nav-project">Project</a></li>
                     <li class="nav-item"><a class="nav-link" href="#nav-delta">Oder Delta</a></li>
                     <li class="nav-item"><a class="nav-link" href="#nav-lynx">De Lynx</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#nav-habitat">Habitat</a></li>
                     <li class="nav-item"><a class="nav-link" href="#nav-stakeholders">Stakeholders</a></li>
                     <li class="nav-item"><a class="nav-link" href="#nav-result">Resultaten</a></li>
                     <li class="nav-item"><a class="nav-link" href="#nav-conclusie">Conclusie</a></li>
@@ -64,13 +65,13 @@
             <h2 style="color: white;">De <i>Lynx lynx,</i> links van de Oder Delta</h2>
             <br><br>
             <h3 style="color: white;">Juli 2022</h3>
-            <br>
-            <h3 style="color: white;">Auteurs:</h3>
+            <div class="small-spacer"></div> <!---SPACER--->
+            <h4 style="color: white;">Auteurs:</h4>
             <h4 style="color: white;">
                 <i>Coen Hijmans, Tomer Peled, David Pellikaan, Thijs van der Poel, Ivar van Rijt</i>
             </h4>
             <div class="spacer"></div> <!---SPACER--->
-            <a class="intro-link" href="#intro"><i class="fas fa-chevron-down"></i></a>
+            <a class="intro-link" href="#nav-project"><i class="fas fa-chevron-down"></i></a>
         </div>
     </div>
 
@@ -94,9 +95,9 @@
         </div>
 
         <div class="row home-info justify-content-center">
-            <div class="col-xs-1 col-lg-1">
+            <div class="col-xs-1 col-lg-2">
             </div>
-            <div class="col-xs-10 col-lg-3 home-info-content" id="intro">
+            <div class="col-xs-10 col-lg-4 home-info-content">
                 <div class="row page-section intro-div">
                     <h3>De Projectgroep</h3>
                     <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
@@ -107,22 +108,8 @@
                     </p>
                 </div>
             </div>
-            <div class="col-xs-1 col-lg-0">
-            </div>
-            <div class="col-xs-10 col-lg-3 home-info-content" id="intro">
+            <div class="col-xs-10 col-lg-4 home-info-content" id="intro">
                 <div class="spacer"></div> <!---SPACER--->
-                <div class="row page-section intro-div">
-                    <h3>HAS Hogeschool</h3>
-                    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                        culpa qui officia deserunt mollit anim id est laborum.
-                    </p>
-                </div>
-            </div>
-            <div class="col-xs-1 col-lg-0">
-            </div>
-            <div class="col-xs-10 col-lg-3 home-info-content" id="intro">
-                <div class="small-spacer"></div> <!---SPACER--->
                 <div class="row page-section intro-div">
                     <h3>De klant</h3>
                     <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
@@ -133,7 +120,7 @@
                     </p>
                 </div>
             </div>
-            <div class="col-xs-1 col-lg-1">
+            <div class="col-xs-1 col-lg-2">
             </div>
         </div><!--row-->
         <div class="spacer"></div> <!---SPACER--->
@@ -265,47 +252,71 @@
     </div>
 
     <!-- HET HABITAT -->
+    <div class="row" id="nav-habitat">
+        <div class="col-xs-1 col-lg-1">
+        </div>
+        <div class="col-xs-8 col-lg-7">
+            <div class="spacer"></div> <!---SPACER--->
+            <h2>Het Habitat</h2>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                laboris nisi
+                ut aliquip ex ea commodo consequat.
+                <br><br>
+                Duis aute irure dolor in reprehenderit in voluptate velit
+                esse
+                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+                culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+            <div class="small-spacer"></div> <!---SPACER--->
+            <div class="col-xs-1 col-lg-4">
+            </div>
+        </div>
+    </div>
+
+
     <div class="row justify-content-center">
         <div class="col-xs-1 col-lg-1">
         </div>
         <div class="col-xs-8 col-lg-5">
-            <div class="spacer"></div> <!---SPACER--->
-
-            <h2>Het Habitat</h2>
-            <div class="small-spacer"></div> <!---SPACER--->
-
             <div class="row page-section">
                 <img src="img/oder-vector-map/vector_oderdelta_omtrek.svg"
                      alt="SVG Kaart van Oder Delta landgebruikstypes"/>
             </div>
         </div>
-        <div class="col-xs-8 col-lg-5 home-info-content" id="intro">
-            <div class="spacer"></div> <!---SPACER--->
-            <div class="small-spacer"></div> <!---SPACER--->
-            <div class="row page-section intro-div">
-
+        <div class="col-xs-8 col-lg-5">
+            <div class="row page-section habitat-div">
                 <div class="habitat-tekstvak" id="habitat-stad">
                     <h4><i class="fas fa-city habitat-icon"></i>Bewoning</h4>
                     <p> Duis aute irure dolor in reprehenderit in voluptate velit esse
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+                        <br>
+                        Excepteur sint occaecat cupidatat non proident.
                     </p>
                 </div>
                 <div class="habitat-tekstvak" id="habitat-bos">
                     <h4><i class="fas fa-tree habitat-icon"></i>Bossen</h4>
                     <p> Duis aute irure dolor in reprehenderit in voluptate velit esse
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+                        <br>
+                        Excepteur sint occaecat cupidatat non proident.
                     </p>
                 </div>
                 <div class="habitat-tekstvak" id="habitat-water">
                     <h4><i class="fas fa-umbrella-beach habitat-icon"></i>Water</h4>
                     <p> Duis aute irure dolor in reprehenderit in voluptate velit esse
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+                        <br>
+                        Excepteur sint occaecat cupidatat non proident.
                     </p>
                 </div>
                 <div class="habitat-tekstvak" id="habitat-land">
-                    <h4><i class="fas fa-tractor habitat-icon"></i>Platteland</h4>
+                    <h4><i class="fas fa-tractor habitat-icon"></i>Overig</h4>
                     <p> Duis aute irure dolor in reprehenderit in voluptate velit esse
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+                        <br>
+                        Excepteur sint occaecat cupidatat non proident.
                     </p>
                 </div>
 
@@ -326,8 +337,6 @@
             </div>
             <div class="col-xs-1 col-lg-3">
                 <h2>Stakeholders</h2>
-            </div>
-            <div class="col-xs-1 col-lg-1">
             </div>
         </div>
 
@@ -390,43 +399,90 @@
     </div> <!-- Stakeholders -->
 
     <!-- INTERACTIEVE KAART  -->
-        <div class="row" id="nav-result">
-        <div class="col-lg-3 kaartknoppen">
-            <!--Content-->
+
+    <!-- Kaart tekst -->
+    <div class="row justify-content-center" id="nav-result">
+        <div class="col-xs-10 col-lg-6">
+            <div class="spacer"></div> <!---SPACER--->
+            <!--Titel-->
             <h2>Resultaten</h2>
             <!--Tekst-->
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae dui dolor. Etiam faucibus tortor eget sapien congue efficitur eget.</p>
-            <!--Buttons-->
-            <div id="buttonNatuur" class="mapButton" onclick="changemapNatuur()">
-                <h5 class="mapButtonTitle">Habitat</h5>
-                <p class="mapButtonText">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </div>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                laboris nisi
+                ut aliquip ex ea commodo consequat.
+                <br><br>
+                Duis aute irure dolor in reprehenderit in voluptate velit
+                esse
+                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+                culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+            <div class="small-spacer"></div> <!---SPACER--->
+        </div>
+        <div class="col-xs-2 col-lg-5">
+        </div>
+    </div>
 
+    <!-- Kaart & knoppen -->
+    <div class="row justify-content-center" id="nav-result">
+        <!--Buttons-->
+        <div class="col-lg-3 kaartknoppen">
+            <div id="buttonNatuur" class="mapButton" onclick="changemapNatuur()">
+                <h6 class="mapButtonTitle">Habitat</h6>
+                <br>
+                <p class="mapButtonText">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                    labore et dolore magna aliqua.
+                </p>
+            </div>
             <div id="buttonOmwonenden" class="mapButton" onclick="changemapOmwonenden()">
-                <h5 class="mapButtonTitle">Omwonenden</h5>
-                <p class="mapButtonText">Lorem Ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <h6 class="mapButtonTitle">Omwonenden</h6>
+                <br>
+                <p class="mapButtonText">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                    labore et dolore magna aliqua.
+                </p>
             </div>
             <div id="buttonToerisme" class="mapButton" onclick="changemapToerisme()">
-                <h5 class="mapButtonTitle">Toerisme</h5>
-                <p class="mapButtonText">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <h6 class="mapButtonTitle">Toerisme</h6>
+                <br>
+                <p class="mapButtonText">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                    labore et dolore magna aliqua.
+                </p>
             </div>
             <div id="buttonLandbouw" class="mapButton" onclick="changemapLandbouw()">
-                <h5 class="mapButtonTitle">Landbouw</h5>
-                <p class="mapButtonText">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <h6 class="mapButtonTitle">Landbouw</h6>
+                <br>
+                <p class="mapButtonText">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                    labore et dolore magna aliqua.
+                </p>
             </div>
             <div class="seperator"></div>
             <div id="button1111" class="mapButton" onclick="changemap1111()">
-                <h5 class="mapButtonTitle">Optimum1111</h5>
-                <p class="mapButtonText">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <h6 class="mapButtonTitle">Optimum1111</h6>
+                <br>
+                <p class="mapButtonText">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                    labore et dolore magna aliqua.
+                </p>
             </div>
             <div id="button5311" class="mapButton" onclick="changemap5311()">
-                <h5 class="mapButtonTitle">Optimum5311</h5>
-                <p class="mapButtonText">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <h6 class="mapButtonTitle">Optimum5311</h6>
+                <br>
+                <p class="mapButtonText">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                    labore et dolore magna aliqua.
+                </p>
             </div>
             </ul>
+            <div class="spacer"></div> <!---SPACER--->
+
         </div>
 
-        <div class="col-9 padding3R">
+        <div class="col-8 kaart">
             <!--Kaart-->
             <div id="kaart" class=""></div>
         </div>
@@ -641,9 +697,12 @@ include $current_file_path . DIRECTORY_SEPARATOR . 'static' . DIRECTORY_SEPARATO
 <!-- Kaart Script -->
 <script src="kaart/map.js"></script>
 <!--<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>-->
-<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
+<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+        integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+        crossorigin=""></script>
 
-<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 
 </body>
 </html>
