@@ -100,25 +100,21 @@
             <div class="col-xs-10 col-lg-4 home-info-content">
                 <div class="row page-section intro-div">
                     <h3>De Projectgroep</h3>
-                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore
-                        et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                        nisi
-                        ut
-                        aliquip ex ea commodo consequat.
+                    <p> Deze website is gemaakt door projectgroep 2. Dit product is deel van een bedachte casus. Alle
+                        resultaten en conclusies zijn niet echt in opdracht van de Duitse regering.
+                        <br><br>
+                        Deze opdracht wordt uitgevoerd namens HAS Hogeschool te ’s-Hertogenbosch en valt binnen de
+                        beoordelingseenheid van de opleiding Applied Geo-Information Science.
                     </p>
                 </div>
             </div>
             <div class="col-xs-10 col-lg-4 home-info-content" id="intro">
                 <div class="spacer"></div> <!---SPACER--->
                 <div class="row page-section intro-div">
-                    <h3>De klant</h3>
-                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore
-                        et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                        nisi
-                        ut
-                        aliquip ex ea commodo consequat.
+                    <h3>De Klant</h3>
+                    <p> De doelgroep bestaat uit wetgevers in de omgeving van de Oder Delta met een ruimtelijke planning
+                        functie. De doelgroep behoort rekening te houden met verschillende stakeholders. Hierdoor wil de
+                        klant een ruimtelijk beslissingsmodel.
                     </p>
                 </div>
             </div>
@@ -141,15 +137,13 @@
                 <h3>Het Doel</h3>
                 <br>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                    laboris nisi
-                    ut aliquip ex ea commodo consequat.
+                    Het doel van dit project is het bevorderen van de economie in het Duitse gedeelte van de Oder Delta
+                    zonder dat dit ten koste gaat van de biodiversiteit. Dit wil men bereiken door het stimuleren van
+                    ecotoerisme wat zorgt voor meer werkgelegenheid. Dit ecotoerisme heeft baat bij de uitvoer van dit
+                    project. Want het introduceren van de lynx zou meer toeristen naar het gebied moeten trekken.
                     <br><br>
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse
-                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum.
+                    Het ruimtelijk beslissing model moet meer inzicht bieden in de belangen van de verschillende
+                    stakeholders.
                 </p>
             </div>
 
@@ -173,17 +167,16 @@
                 <!-- ACHTERGROND -->
                 <div class="row page-section intro-div">
                     <h3>Achtergrond</h3>
-                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi
-                        ut aliquip ex ea commodo consequat.</p>
+                    <p> De Oder Delta is een belangrijk natuurgebied aan de Duits Poolse grens. Rewilding Europe is een
+                        organisatie die bezig is met het verder ontwikkelen van de natuur binnen de Oder Delta. Zij zien
+                        het gebied als een belangrijk kruispunt binnen de Europese natuur.
+                    </p>
                     <br><br>
-                    <h4>Hoofdstukkie</h4>
+                    <h4>Natura 2000</h4>
                     <p>
-                        Duis aute irure dolor in reprehenderit in voluptate velit
-                        esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                        culpa qui officia deserunt mollit anim id est laborum.
+                        Delen van de Oder Delta vallen onder het Natura 2000 netwerk. Beide het habitat- en de
+                        vogelrichtlijnen gelden voor dit gebied. Omdat de Oder Delta een belangrijk natuurgebied is
+                        zorgt Natura 2000 ervoor dat de natuur gewaarborgd wordt en biodiversiteit versterkt wordt.
                     </p>
                 </div>
             </div>
@@ -209,16 +202,12 @@
             <div class="col-xs-8 col-lg-4 home-info-content" id="intro">
                 <div class="row page-section intro-div">
                     <h3>De Delta</h3>
-                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi
-                        ut aliquip ex ea commodo consequat.</p>
-                    <br><br>
-                    <p>
-                        Duis aute irure dolor in reprehenderit in voluptate velit
-                        esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                        culpa qui officia deserunt mollit anim id est laborum.
+                    <p> De delta bestaat uit verschillende landschapstypen. Er is bos en boerenland te vinden, maar ook
+                        moeras en bebouwd gebied. Vanwege de locatie op ecologische kruispunten is er
+                        een goede biodiversiteit in het gebied. 7 diersoorten zijn gekozen als iconische soorten en
+                        worden beschreven als ‘De Grote 7 van de Oder Delta’. Dit zijn de wisent, bever, Europese
+                        zeearend, eland, wolf, Atlantische steur en grijze zeehond
+                        <i><a href="#nav-bronnen" class="bron-link">(Rewilding Europe, z.d.)</a></i>.
                     </p>
                 </div>
             </div>
@@ -237,15 +226,16 @@
                 <h2>Over de Lynx</h2>
                 <br>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                    laboris nisi
-                    ut aliquip ex ea commodo consequat.
+                    Natuurgebieden hebben roofdieren nodig om de balans in stand te houden. In de Oder Delta zijn deze
+                    niet veel aanwezig. De lynx kan deze rol vervullen. Deze middelgrote kat weegt rond de 20 kilo. Door
+                    predatie zorgt ervoor de lynx ervoor dat de prooidieren zich beter door het landschap verspreiden
+                    waardoor deze in een natuurlijker patroon het gebied begrazen. De voornaamste prooi van de lynx in
+                    de ree <i><a href="#nav-bronnen" class="bron-link">(ARK Natuurontwikkeling, 2014)</a></i>.
                     <br><br>
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse
-                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum.
+                    Naar schatting zijn er nog zo’n 32.000 in het wild levende lynxen. Het gootste deel hiervan bevindt
+                    zich in Rusland. In Europa zijn het er zo’n 9500. De populatie wordt beschouwd als stabiel.
+                    Centraal-Europa valt onder het historisch bereik van dit dier, maar momenteel zijn de populaties
+                    hier klein <i><a href="#nav-bronnen" class="bron-link">(Breitenmoser-Würsten et al., 2014)</a></i>.
                 </p>
                 <div class="spacer"></div> <!---SPACER--->
                 <div class="col-xs-1 col-lg-1">
@@ -265,17 +255,34 @@
             <div class="spacer"></div> <!---SPACER--->
             <!-- Titel -->
             <h3>Het Habitat</h3>
+            <br><br>
             <!-- Tekst -->
+
+            <h4>Bewoning</h4>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                laboris nisi
-                ut aliquip ex ea commodo consequat.
-                <br><br>
-                Duis aute irure dolor in reprehenderit in voluptate velit
-                esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                culpa qui officia deserunt mollit anim id est laborum.
+                Vanwege verstoringen door de mens blijft de lynx minimaal 200 meter bebouwde gebieden af. Ook wegen
+                worden vermeden. Gebied binnen 100 meter van een weg wordt als ongeschikt beschouwd voor een lynx
+                <i><a href="#nav-bronnen" class="bron-link">(Rüdisser & Martys, 2002)</a></i>.
+            </p>
+            <h4>Bossen</h4>
+            <p>
+                Bossen zijn ruim het belangrijkste habitat van de lynx. Omdat er gejaagd wordt door prooien te besluipen
+                is er voldoende beschutting nodig. Ook struikrijke bosranden zijn zeer geschikt als habitat. De lynx
+                blijft veelal binnen 200m van een bosrand <i><a href="#nav-bronnen" class="bron-link">(Rüdisser &
+                        Martys, 2002)</a></i>.
+            </p>
+            <h4>Water</h4>
+            <p>
+                Een delta heeft uiteraard een overvloed aan water. Lynxen zijn uitstekende zwemmers. Koud water wordt
+                waar mogelijk vermeden en kleine beekjes worden overgestoken door natuurlijke bruggen. Er is echter
+                voldoende beeldmateriaal dat laat zien dat lynxen ook grotere afstanden afleggen in koudere wateren
+                <i><a href="#nav-bronnen" class="bron-link">(Sidorovich, 2021)</a></i>.
+            </p>
+            <h4>Overig landschap</h4>
+            <p>
+                Open velden worden niet geheel vermeden. Een onderzoek toonde zelfs aan dat de lynx zich aan kan passen
+                aan de omgeving bij en gebrek aan bossen. Helaas is dit voor boeren slechter nieuws. Schapen zijn soms
+                ook het slachtoffer <i><a href="#nav-bronnen" class="bron-link">(Nagl et al., 2022)</a></i>.
             </p>
             <div class="small-spacer"></div> <!---SPACER--->
             <div class="col-xs-1 col-lg-4">
@@ -284,7 +291,7 @@
     </div>
 
     <!-- Kaart & tekstvakken -->
-    <div class="row justify-content-center">
+    <div class="row justify-content-left">
         <div class="col-xs-1 col-lg-1">
         </div>
         <!-- Kaart -->
@@ -306,42 +313,37 @@
         <!-- Tekstvakken -->
         <div class="col-xs-8 col-lg-5">
             <div class="row page-section habitat-div">
-                <button class="habitat-tekstvak" id="habitat_stad">
+                <button class="habitat-tekstvak text-left" id="habitat_stad">
                     <h4><i class="fas fa-city habitat-icon"></i>Bewoning</h4>
-                    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-                        <br>
-                        Excepteur sint occaecat cupidatat non proident.
+                    <p>
+                        De lynx moet op afstand kunnen blijven van bebouwde gebieden. Dit zijn de grotere bewoonde
+                        gebieden in de regio, zonder de kleine dorpjes.
                     </p>
                 </button>
-                <button class="habitat-tekstvak" id="habitat_bos">
+                <button class="habitat-tekstvak text-left" id="habitat_bos">
                     <h4><i class="fas fa-tree habitat-icon"></i>Bossen</h4>
-                    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-                        <br>
-                        Excepteur sint occaecat cupidatat non proident.
+                    <p>
+                        De bossen zijn het belangrijkste leefgebied voor de lynx. Deze bosrijke gebieden zijn dus ideaal
+                        om de lynx in uit te zetten.
                     </p>
                 </button>
-                <button class="habitat-tekstvak" id="habitat_water">
+                <button class="habitat-tekstvak text-left" id="habitat_water">
                     <h4><i class="fas fa-umbrella-beach habitat-icon"></i>Water</h4>
-                    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-                        <br>
-                        Excepteur sint occaecat cupidatat non proident.
+                    <p>
+                        Lynxen kunen prima grotere afstanden afleggen door het water zelf of via natuurlijke bruggen.
+                        Hoewel dit dus geen leefgebied is voor de lynx zou je ze er zeker kunnen aantreffen.
                     </p>
                 </button>
-                <button class="habitat-tekstvak" id="habitat_overig">
+                <button class="habitat-tekstvak text-left" id="habitat_overig">
                     <h4><i class="fas fa-tractor habitat-icon"></i>Overig</h4>
-                    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-                        <br>
-                        Excepteur sint occaecat cupidatat non proident.
+                    <p>
+                        Hoewel het geen ideaal habitat is, zou de lynx in deze gebieden kunnen voorkomen. Vooral voor
+                        veeboeren is dit slechter nieuws.
                     </p>
                 </button>
-                <button class="habitat-tekstvak" id="habitat_reset">
+                <button class="habitat-tekstvak text-left" id="habitat_reset">
                     <h5><i class="fas fa-backward habitat-icon"></i></h5>
                 </button>
-
             </div>
         </div>
         <div class="col-xs-1 col-lg-1">
@@ -368,22 +370,20 @@
             <div class="col-xs-1 col-lg-1">
             </div>
             <div class="col-xs-10 col-lg-5">
-                <div class="row page-section stakeholder-div" id="stakeholder-1">
-                    <h3>Stakeholder 1</h3>
-                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore
-                        et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-                        ut
-                        aliquip ex ea commodo consequat.
+                <div class="row page-section stakeholder-div" id="stakeholder-2">
+                    <h3>Habitat</h3>
+                    <p> Dit criterium gaat over welke gebieden geschikt zijn voor de lynx. De subcriteria zijn bos,
+                        voedsel, klimaat en rust. Er wordt hier rekening mee gehouden om de veiligheid en kwaliteit van
+                        de natuur te waarborgen.
                     </p>
                 </div>
             </div>
             <div class="col-xs-10 col-lg-5">
-                <div class="row page-section stakeholder-div" id="stakeholder-2">
-                    <h3>Stakeholder 2</h3>
-                    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                        culpa qui officia deserunt mollit anim id est laborum.
+                <div class="row page-section stakeholder-div" id="stakeholder-1">
+                    <h3>Omwonenden & industrie</h3>
+                    <p> Dit criterium gaat over de Duitse bevolking die binnen het gebied wonen en werken. Aangezien er
+                        veel mensen in het gebied wonen en er industrieterreinen binnen het gebied liggen wordt dit
+                        criterium toegevoegd. Dit is berekend op basis van aanwezigheid industrie en bebouwing.
                     </p>
                 </div>
             </div>
@@ -396,21 +396,19 @@
             </div>
             <div class="col-xs-10 col-lg-5">
                 <div class="row page-section stakeholder-div" id="stakeholder-3">
-                    <h3>Stakeholder 3</h3>
-                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore
-                        et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-                        ut
-                        aliquip ex ea commodo consequat.
+                    <h3>Toerisme</h3>
+                    <p> Dit criterium gaat over het potentieel van het gebied om toeristen aan te trekken. Aangezien dit
+                        het achterliggende doel van het project is wordt dit criterium toegevoegd. Dit is berekend op
+                        basis van bereikbaarheid van natuurgebieden.
                     </p>
                 </div>
             </div>
             <div class="col-xs-10 col-lg-5">
                 <div class="row page-section stakeholder-div" id="stakeholder-4">
-                    <h3>Stakeholder 4</h3>
-                    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                        culpa qui officia deserunt mollit anim id est laborum.
+                    <h3>Landbouw</h3>
+                    <p> Dit criterium gaat over de landbouwsector in het gebied. In het gebied worden er gewassen
+                        geteeld en vee gehouden. Aangezien de lynx een predator is wordt vee een belangrijke factor. Dit
+                        is berekend op basis van de aanwezigheid van veehouderijen.
                     </p>
                 </div>
             </div>
@@ -430,15 +428,14 @@
             <h2>Resultaten</h2>
             <!--Tekst-->
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                laboris nisi
-                ut aliquip ex ea commodo consequat.
+                Hieronder wordt een interactieve kaart weergegeven. Doormiddel van de knoppen aan de linkerkant van het
+                scherm kunt u zelf bepalen welk criterium u wilt bekijken. Er zijn vier opties: habitat, omwonende,
+                toerisme en veehouderijen.
                 <br><br>
-                Duis aute irure dolor in reprehenderit in voluptate velit
-                esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                culpa qui officia deserunt mollit anim id est laborum.
+                Daarnaast heeft de keuze uit 2 modellen. Model 1 (het neutrale model) bevat de resulterende locaties om
+                de lynx te introduceren bij het gelijk samenvoegen van de 4 criteria. Model 2 (investeringsmodel) bevat
+                de resulterende locaties om de lynx te introduceren wanneer er meer geld wordt vrijgesteld om de
+                gecombineerde criteria te verbeteren.
             </p>
             <div class="small-spacer"></div> <!---SPACER--->
         </div>
@@ -453,51 +450,41 @@
         <div class="col-lg-3 kaartknoppen">
             <div id="buttonNatuur" class="mapButton" onclick="changemapNatuur()">
                 <h6 class="mapButtonTitle">Habitat</h6>
-                <br>
                 <p class="mapButtonText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                    labore et dolore magna aliqua.
+                    Zie hier de beste en slechtst ontwikkelde habitat regio’s voor de lynx.
                 </p>
             </div>
             <div id="buttonOmwonenden" class="mapButton" onclick="changemapOmwonenden()">
                 <h6 class="mapButtonTitle">Omwonenden</h6>
-                <br>
                 <p class="mapButtonText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                    labore et dolore magna aliqua.
+                    Zie hier de beste en slechtste locaties voor de lynx in vergelijking met afstand tot bebouwing.
                 </p>
             </div>
             <div id="buttonToerisme" class="mapButton" onclick="changemapToerisme()">
                 <h6 class="mapButtonTitle">Toerisme</h6>
-                <br>
                 <p class="mapButtonText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                    labore et dolore magna aliqua.
+                    Zie hier de beste en slechtste verbindingen voor de connecties met betrekking tot toerisme.
                 </p>
             </div>
             <div id="buttonLandbouw" class="mapButton" onclick="changemapLandbouw()">
-                <h6 class="mapButtonTitle">Landbouw</h6>
-                <br>
+                <h6 class="mapButtonTitle">Veehouderij</h6>
                 <p class="mapButtonText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                    labore et dolore magna aliqua.
+                    Zie hier de beste en slechtste locaties voor de lynx in vergelijking met afstand tot veehouderijen.
                 </p>
             </div>
             <div class="seperator"></div>
             <div id="button1111" class="mapButton" onclick="changemap1111()">
-                <h6 class="mapButtonTitle">Optimum1111</h6>
-                <br>
+                <h6 class="mapButtonTitle">Neutraal model</h6>
                 <p class="mapButtonText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                    labore et dolore magna aliqua.
+                    Zie hier het model waar uit alle criteria de beste en slechtste locaties voor het introduceren van
+                    de lynx zijn.
                 </p>
             </div>
             <div id="button5311" class="mapButton" onclick="changemap5311()">
-                <h6 class="mapButtonTitle">Optimum5311</h6>
-                <br>
+                <h6 class="mapButtonTitle">Investeringsmodel</h6>
                 <p class="mapButtonText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                    labore et dolore magna aliqua.
+                    Zie hier het model waar met extra investeringen in habitat verrijking de beste en slechtste locaties
+                    voor het introduceren van de lynx zijn.
                 </p>
             </div>
             </ul>
@@ -505,7 +492,8 @@
 
         <!-- Kaart -->
         <div class="col-8 kaart">
-            <div id="kaart" class=""></div>
+            <img src="img/legenda.jpg" class="legenda">
+            <div id="kaart" class="kaart"></div>
         </div>
     </div> <!-- Eind kaart & knoppen -->
     <div class="spacer"></div> <!---SPACER--->
@@ -516,33 +504,38 @@
         <div class="col-xs-8 col-lg-4">
             <div class="spacer"></div> <!---SPACER--->
             <div class="row page-section result-div">
-                <h3>Verdere resultaten</h3>
-                <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                    laboris nisi
-                    ut aliquip ex ea commodo consequat.</p>
-                <br><br>
-                <h4>Kopje</h4>
-                <p>
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse
-                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum.
+                <h4>Beste locatie</h4>
+                <p> Uit de analyse is gebleken dat er twee optimale gebieden zijn om de lynx te introduceren. Een gebied
+                    is Brohmer Bergen dit ligt ten noord oosten van het gebied. Het andere gebied is Biosfeerreservaat
+                    Schorfheide-Chorin en ligt ten zuid oosten van het gebied.
                 </p>
-                <h4>Kopje</h4>
+                <br><br>
+                <h4>Ontevreden stakeholders</h4>
                 <p>
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse
-                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum.
+                    Wanneer de belangen van de omwonende en veehouders sterk worden betrokken blijven er echter weing
+                    gebieden over (zoals weergegeven in het neutrale model). Dit ontstaat omdat bewoners bang kunnen
+                    zijn van de nieuwe predator en veehouders willen geen vee verliezen.
+                </p>
+                <h4>Oplossing</h4>
+                <p>
+                    Als er meer geld kan worden geïnvesteerd in dit gebied kunnen de stakeholders omwonenden en
+                    veehouders tevreden gesteld worden. Door educatie of inlichting kunnen bewoners leren leven met de
+                    lynx. Hiernaast kunnen veehouders van subsidie gebruik maken om waakhonden of betere omheining aan
+                    te schaffen. Bij succesvol toepassen zorgt het resultaat voor het kaartbeeld investeringsmodel.
                 </p>
             </div>
             <div class="spacer"></div> <!---SPACER--->
         </div>
-        <div class="col-xs-0 col-lg-2"></div>
-        <div class="col-xs-8 col-lg-5">
-            <div class="big-spacer"></div> <!---SPACER--->
-            <h2>Grafieken <br>enzo</h2>
+        <div class="col-xs-1 col-lg-1">
+        </div>
+        <div class="col-xs-8 col-lg-6">
+            <div class="spacer"></div> <!---SPACER--->
+            <img src="img/gebieden.jpeg" class="grafieken">
+            <br><br>
+            <img src="img/grafiek-1.png" class="grafieken">
+            <br><br>
+            <img src="img/grafiek-2.png" class="grafieken">
+            <div class="spacer"></div> <!---SPACER--->
         </div>
     </div><!--row-->
 
@@ -558,25 +551,40 @@
                 <h3>Conclusie</h3>
                 <br>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                    laboris nisi
-                    ut aliquip ex ea commodo consequat.
-                    <br><br>
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse
-                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum.
+                    De beleidsvoerders hebben de keuze uit de volgende mogelijkheden:
+                    <br>
                 </p>
-
-                <h4>Kopje ofzo</h4>
+                <ol>
+                    <li><strong>De lynx niet uitzetten in de Oder Delta.</strong> Zonder extra maatregelen is er geen
+                        plek voor de lynx in de Oder Delta zonder mogelijke conflict met belanghebbenden. Als de
+                        beleidsvoerders met een beperkt budget werken, zou het onverstandig zijn om de lynx uitzetten in
+                        de Oder Delta.
+                    </li>
+                    <li><strong>De lynx uitzetten in de Oder Delta zonder extra maatregelen.</strong> Als er vanuit
+                        habitatgeschiktheid wordt gekeken zijn er geschikte gebieden in de Oder Delta. De lynx zou in
+                        deze gebieden geherintroduceerd kunnen worden. Echter bestaat er een grote kans dat er veel
+                        weerstand zou komen vanuit de omwonende en de veehouders in het gebied.
+                    </li>
+                    <li><strong>De lynx uitzetten in de Oder Delta met extra maatregelen.</strong> Door extra
+                        maatregelen te nemen om de weerstand van belanghebbenden te verminderen, zou de lynx
+                        geherintroduceerd kunnen worden in het gebied zonder negatieve gevolgen. Deze mogelijkheid zou
+                        wel meer geld kosten.
+                    </li>
+                </ol>
+                <br>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                    laboris nisi
-                    ut aliquip ex ea commodo consequat.
-
+                    Verder zijn er twee gebieden waar de lynx het beste herintroduceert kan worden. De gebieden zijn:
                 </p>
+                <ol>
+                    <li><strong>Biosfeerreservaat Schorfheide-Chorin.</strong> Dit is de grootste geschikte gebied in
+                        het onderzoeksgebied, wat de kansen van de lynx verbetert. Dit gebied bevat relatief minder
+                        veehouderijen, waardoor de kans op conflict tussen veehouders en de lynx kleiner is.
+                    </li>
+                    <li><strong>Brohmer Bergen. Dit gebied is kleiner en bevat relatief meer veehouderijen.</strong>
+                        Het gebied is wel dichterbij de Oderdelta, wat toerisme naar het gebied zal bevorderen.
+                    </li>
+                </ol>
+                <br><br>
             </div>
 
             <div class="spacer"></div> <!---SPACER--->
@@ -596,6 +604,8 @@
             </div>
             <div class="col-xs-1 col-lg-2">
                 <h2>Bronnen</h2>
+                <div class="small-spacer"></div> <!---SPACER--->
+
             </div>
             <div class="col-xs-1 col-lg-5">
             </div>
@@ -605,27 +615,28 @@
         <div class="row home-info justify-content-center">
             <div class="col-xs-1 col-lg-1">
             </div>
-            <div class="col-xs-10 col-lg-3 home-info-content" id="intro">
-                <div class="row page-section intro-div">
-                    <h4>Bron</h4>
-                    <p> Duis aute irure dolor in reprehenderit <br> in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur.
+            <div class="col-xs-10 col-lg-5 home-info-content">
+                <div class="row page-section intro-div bron-vak">
+                    <h5>ARK Natuurontwikkeling. (2014, april 23).</h5>
+                    <p><i>Lynx.</i> ARK Natuurontwikkeling.
+                        <br>
+                        <a href="https://www.ark.eu/natuurontwikkeling/natuurlijke-processen/predatie/lynx"
+                           class="bron-link">
+                            https://www.ark.eu/natuurontwikkeling/natuurlijke-processen/predatie/lynx
+                        </a>
                     </p>
                 </div>
             </div>
-            <div class="col-xs-10 col-lg-3 home-info-content" id="intro">
-                <div class="row page-section intro-div">
-                    <h4>Bron</h4>
-                    <p> Duis aute irure dolor in reprehenderit <br> in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur.
-                    </p>
-                </div>
-            </div>
-            <div class="col-xs-10 col-lg-3 home-info-content" id="intro">
-                <div class="row page-section intro-div">
-                    <h4>Bron</h4>
-                    <p> Duis aute irure dolor in reprehenderit <br> in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur.
+            <div class="col-xs-10 col-lg-5 home-info-content">
+                <div class="row page-section intro-div bron-vak">
+                    <h5>Breitenmoser-Würsten, C., Breitenmoser, U., Avgan, B., Lanz, T., von Arx, M., Antonevich, A., &
+                        Dong Bao, W. (2014).</h5>
+                    <p> IUCN Red List of Threatened Species: Lynx lynx. <i>IUCN Red List of Threatened Species.</i>
+                        <br>
+                        <a href="https://www.iucnredlist.org/en"
+                           class="bron-link">
+                            https://www.iucnredlist.org/en
+                        </a>
                     </p>
                 </div>
             </div>
@@ -637,27 +648,32 @@
         <div class="row home-info justify-content-center">
             <div class="col-xs-1 col-lg-1">
             </div>
-            <div class="col-xs-10 col-lg-3 home-info-content" id="intro">
-                <div class="row page-section intro-div">
-                    <h4>Bron</h4>
-                    <p> Duis aute irure dolor in reprehenderit <br> in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur.
+            <div class="col-xs-10 col-lg-5 home-info-content">
+                <div class="row page-section intro-div bron-vak">
+                    <h5>Nagl, D., Breitenmoser, U., Hackländer, K., Ryser, A., Zimmermann, F., Signer, S., Haller, H.,
+                        Breitenmoser, C., & Vogt, K. (2022).
+                    </h5>
+                    <p>Long‐term changes in habitat selection and prey spectrum in a reintroduced Eurasian lynx (Lynx
+                        lynx) population in Switzerland.
+                        <i>Ecology and Evolution, 12.</i>
+                        <br>
+                        <a href="https://doi.org/10.1002/ece3.8614"
+                           class="bron-link">
+                            https://doi.org/10.1002/ece3.8614
+                        </a>
                     </p>
                 </div>
             </div>
-            <div class="col-xs-10 col-lg-3 home-info-content" id="intro">
-                <div class="row page-section intro-div">
-                    <h4>Bron</h4>
-                    <p> Duis aute irure dolor in reprehenderit <br> in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur.
-                    </p>
-                </div>
-            </div>
-            <div class="col-xs-10 col-lg-3 home-info-content" id="intro">
-                <div class="row page-section intro-div">
-                    <h4>Bron</h4>
-                    <p> Duis aute irure dolor in reprehenderit <br> in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur.
+            <div class="col-xs-10 col-lg-5 home-info-content">
+                <div class="row page-section intro-div bron-vak">
+                    <h5>Rüdisser, J., & Martys, M. (2002).
+                    </h5>
+                    <p>
+                        <i>
+                            Spatial analysis of potential Lynx (Lynx lynx) distribution in Western Austria considering
+                            ecological and anthropological conflicts. (pp. 248–254).
+                        </i>
+                        <br>
                     </p>
                 </div>
             </div>
@@ -669,29 +685,23 @@
         <div class="row home-info justify-content-center">
             <div class="col-xs-1 col-lg-1">
             </div>
-            <div class="col-xs-10 col-lg-3 home-info-content" id="intro">
-                <div class="row page-section intro-div">
-                    <h4>Bron</h4>
-                    <p> Duis aute irure dolor in reprehenderit <br> in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur.
+            <div class="col-xs-10 col-lg-5 home-info-content">
+                <div class="row page-section intro-div bron-vak">
+                    <h5>
+                        Sidorovich, V. (2021, maart 10).
+                    </h5>
+                    <p>
+                        Does the Eurasian lynx avoid strictly cold water?
+                        <i>Zoology by Vadim Sidorovich.</i>
+                        <br>
+                        <a href="https://sidorovich.blog/2021/03/10/does-the-eurasian-lynx-avoid-strictly-cold-water/"
+                           class="bron-link">
+                            https://sidorovich.blog/2021/03/10/does-the-eurasian-lynx-avoid-strictly-cold-water/
+                        </a>
                     </p>
                 </div>
             </div>
-            <div class="col-xs-10 col-lg-3 home-info-content" id="intro">
-                <div class="row page-section intro-div">
-                    <h4>Bron</h4>
-                    <p> Duis aute irure dolor in reprehenderit <br> in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur.
-                    </p>
-                </div>
-            </div>
-            <div class="col-xs-10 col-lg-3 home-info-content" id="intro">
-                <div class="row page-section intro-div">
-                    <h4>Bron</h4>
-                    <p> Duis aute irure dolor in reprehenderit <br> in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur.
-                    </p>
-                </div>
+            <div class="col-xs-10 col-lg-5 home-info-content">
             </div>
             <div class="col-xs-1 col-lg-1">
             </div>

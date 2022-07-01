@@ -35,6 +35,10 @@ p {
     font-family: 'Merriweather', Verdana, serif;
 }
 
+ol {
+    font-family: 'Merriweather', Verdana, serif;
+}
+
 body, html {
     height: 100%;
     width: 100%;
@@ -83,6 +87,17 @@ body, html {
     mix-blend-mode:difference;
 }
 
+.bron-link{
+    color: #795548;
+}
+
+.bron-link:hover{
+    color: #5D4037
+}
+
+.bron-link:active{
+    color: #5D4037
+}
 
 #home-header {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
@@ -171,7 +186,6 @@ body, html {
 
 .habitat-div{
     padding-left: 3em;
-
 }
 
 .habitat-tekstvak{
@@ -181,8 +195,6 @@ body, html {
 }
 
 .habitat-tekstvak:hover{
-    background-color: #ffecb3 !important;
-    color: #2C3E50 !important;
     -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.175);
 }
@@ -197,10 +209,18 @@ body, html {
     border: none;
 }
 
+#habitat_stad:hover{
+    background-color: #C0392B;
+}
+
 #habitat_bos{
     background-color: #558b2f;
     color: #FFF8E1;
     border: none;
+}
+
+#habitat_bos:hover{
+    background-color: #33691E;
 }
 
 #habitat_water{
@@ -209,8 +229,17 @@ body, html {
     border: none;
 }
 
+#habitat_water:hover{
+    background-color: #236F99;
+}
+
 #habitat_overig{
     border: none;
+}
+
+#habitat_overig:hover{
+    background-color: #f2ddaf;
+    color: black;
 }
 
 #habitat_reset{
@@ -261,7 +290,7 @@ body, html {
 .stakeholder-div{
     padding: 3em;
     margin-bottom: 2em;
-    min-height: 10em;
+    min-height: 18em;
 }
 
 #stakeholder-1{
@@ -284,37 +313,6 @@ body, html {
     color: #FFF8E1;
 }
 
-
-/* RESULTATEN */
-
-.resultaten-dia{
-    background-color: #FFECB3;
-}
-
-.result-div{
-    padding: 3em;
-    background-color: #FFF8E1;
-}
-
-
-/* CONCLUSIE */
-
-.conclusie-paralax{
-    background-image: url("/lynx/img/gallery-img/img-4.jpg");
-    /* Set a specific height */
-    min-height: 400px;
-    color: #ffffff;
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-
-
-
 /* INTERACTIEVE KAART */
 
 #kaart {
@@ -335,6 +333,15 @@ body, html {
 }
 
 .kaart{
+    z-index: 2;
+}
+
+.legenda{
+    z-index: 3;
+    position: absolute;
+    width: 15%;
+    margin-top: 10%;
+    margin-left: 1%;
 }
 
 .noBullet {
@@ -350,11 +357,6 @@ body, html {
     margin-bottom: 1em;
     border: none;
     border-radius: 0px;
-}
-
-.mapButton:hover {
-    background-color: #FFECB3 !important;
-    color: #2C3E50 !important;
 }
 
 .active {
@@ -385,9 +387,17 @@ body, html {
     color: #FFF8E1;
 }
 
+#buttonNatuur:hover{
+    background-color: #33691E;
+}
+
 #buttonOmwonenden{
     background-color: #e74c3c;
     color: #FFF8E1;
+}
+
+#buttonOmwonenden:hover{
+    background-color: #C0392B;
 }
 
 #buttonToerisme{
@@ -395,9 +405,18 @@ body, html {
     color: #FFF8E1;
 }
 
+#buttonToerisme:hover{
+    background-color: #236F99;
+}
+
+
 #buttonLandbouw{
     background-color: #795548;
     color: #FFF8E1;
+}
+
+#buttonLandbouw:hover{
+    background-color: #5D4037;
 }
 
 #button1111{
@@ -405,15 +424,55 @@ body, html {
     color: #FFF8E1;
 }
 
+#button1111:hover{
+    background-color: #2C3E50;
+}
+
 #button5311{
     background-color: #24495E;
     color: #FFF8E1;
 }
 
+#button5311:hover{
+    background-color: #2C3E50;
+}
 
 
+/* RESULTATEN */
 
+.resultaten-dia{
+    background-color: #FFECB3;
+}
 
+.result-div{
+    padding: 3em;
+    background-color: #FFF8E1;
+}
+
+.grafieken{
+    max-width: 100%;
+}
+
+/* CONCLUSIE */
+
+.conclusie-paralax{
+    background-image: url("/lynx/img/gallery-img/img-4.jpg");
+    /* Set a specific height */
+    min-height: 400px;
+    color: #ffffff;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* BRONNEN */
+
+.bron-vak{
+    min-height: 18.33em;
+}
 
 
 /* --------------------FOOTER START -----------------------*/
