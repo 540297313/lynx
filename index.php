@@ -81,7 +81,7 @@
 <main>
 
     <!-- INTRO -->
-    <div class="home-info" id="nav-project">
+    <div class="home-info " id="nav-project">
         <div class="spacer"></div> <!---SPACER--->
 
         <div class="row justify-content-right">
@@ -102,7 +102,8 @@
                     <h3>De Projectgroep</h3>
                     <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                         labore
-                        et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+                        et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+                        nisi
                         ut
                         aliquip ex ea commodo consequat.
                     </p>
@@ -114,7 +115,8 @@
                     <h3>De klant</h3>
                     <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                         labore
-                        et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+                        et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+                        nisi
                         ut
                         aliquip ex ea commodo consequat.
                     </p>
@@ -125,6 +127,7 @@
         </div><!--row-->
         <div class="spacer"></div> <!---SPACER--->
     </div>
+
 
     <!-- DOEL - PARALAX -->
     <div class="row col-12 doel-paralax">
@@ -156,6 +159,7 @@
         <div class="col-xs-1 col-lg-4">
         </div>
     </div>
+
 
     <!-- ODER DELTA -->
     <div class="oder-delta" id="nav-delta">
@@ -225,12 +229,12 @@
 
     <!-- OVER DE LYNX - PARALAX -->
     <div class="row col-12 doel-paralax" id="nav-lynx">
-        <div class="col-xs-1 col-lg-7">
+        <div class="col-xs-1 col-lg-6">
         </div>
-        <div class="col-lg-4 col-sm-10 justify-content-left">
+        <div class="col-lg-5 col-sm-10 justify-content-left">
             <div class="doel-div">
                 <div class="spacer"></div> <!---SPACER--->
-                <h3>Over de Lynx</h3>
+                <h2>Over de Lynx</h2>
                 <br>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
@@ -252,12 +256,16 @@
     </div>
 
     <!-- HET HABITAT -->
+
+    <!-- Titel & tekst -->
     <div class="row" id="nav-habitat">
         <div class="col-xs-1 col-lg-1">
         </div>
         <div class="col-xs-8 col-lg-7">
             <div class="spacer"></div> <!---SPACER--->
-            <h2>Het Habitat</h2>
+            <!-- Titel -->
+            <h3>Het Habitat</h3>
+            <!-- Tekst -->
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                 labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
@@ -275,50 +283,64 @@
         </div>
     </div>
 
-
+    <!-- Kaart & tekstvakken -->
     <div class="row justify-content-center">
         <div class="col-xs-1 col-lg-1">
         </div>
+        <!-- Kaart -->
         <div class="col-xs-8 col-lg-5">
             <div class="row page-section">
-                <img src="img/oder-vector-map/vector_oderdelta_omtrek.svg"
-                     alt="SVG Kaart van Oder Delta landgebruikstypes"/>
+                <!-- Steden -->
+                <img src="img/oder-vector-map/vector_stad.svg" class="vector_laag_stad hide_stad"/>
+                <!-- Bossen -->
+                <img src="img/oder-vector-map/vector_bos.svg" class="vector_laag_bos hide_bos"/>
+                <!-- Water & zee -->
+                <img src="img/oder-vector-map/vector_water.svg" class="vector_laag_water hide_water"/>
+                <!-- Overig -->
+                <img src="img/oder-vector-map/vector_overig.svg" class="vector_laag_overig hide_overig"/>
+                <!-- Zwart-wit -->
+                <img src="img/oder-vector-map/vector_oderdelta_bw.svg"
+                     alt="SVG Kaart van Oder Delta landgebruikstypes" class="vector_laag_bw"/>
             </div>
         </div>
+        <!-- Tekstvakken -->
         <div class="col-xs-8 col-lg-5">
             <div class="row page-section habitat-div">
-                <div class="habitat-tekstvak" id="habitat-stad">
+                <button class="habitat-tekstvak" id="habitat_stad">
                     <h4><i class="fas fa-city habitat-icon"></i>Bewoning</h4>
                     <p> Duis aute irure dolor in reprehenderit in voluptate velit esse
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
                         <br>
                         Excepteur sint occaecat cupidatat non proident.
                     </p>
-                </div>
-                <div class="habitat-tekstvak" id="habitat-bos">
+                </button>
+                <button class="habitat-tekstvak" id="habitat_bos">
                     <h4><i class="fas fa-tree habitat-icon"></i>Bossen</h4>
                     <p> Duis aute irure dolor in reprehenderit in voluptate velit esse
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
                         <br>
                         Excepteur sint occaecat cupidatat non proident.
                     </p>
-                </div>
-                <div class="habitat-tekstvak" id="habitat-water">
+                </button>
+                <button class="habitat-tekstvak" id="habitat_water">
                     <h4><i class="fas fa-umbrella-beach habitat-icon"></i>Water</h4>
                     <p> Duis aute irure dolor in reprehenderit in voluptate velit esse
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
                         <br>
                         Excepteur sint occaecat cupidatat non proident.
                     </p>
-                </div>
-                <div class="habitat-tekstvak" id="habitat-land">
+                </button>
+                <button class="habitat-tekstvak" id="habitat_overig">
                     <h4><i class="fas fa-tractor habitat-icon"></i>Overig</h4>
                     <p> Duis aute irure dolor in reprehenderit in voluptate velit esse
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
                         <br>
                         Excepteur sint occaecat cupidatat non proident.
                     </p>
-                </div>
+                </button>
+                <button class="habitat-tekstvak" id="habitat_reset">
+                    <h5><i class="fas fa-backward habitat-icon"></i></h5>
+                </button>
 
             </div>
         </div>
@@ -426,6 +448,7 @@
 
     <!-- Kaart & knoppen -->
     <div class="row justify-content-center" id="nav-result">
+
         <!--Buttons-->
         <div class="col-lg-3 kaartknoppen">
             <div id="buttonNatuur" class="mapButton" onclick="changemapNatuur()">
@@ -478,15 +501,15 @@
                 </p>
             </div>
             </ul>
-            <div class="spacer"></div> <!---SPACER--->
-
         </div>
 
+        <!-- Kaart -->
         <div class="col-8 kaart">
-            <!--Kaart-->
             <div id="kaart" class=""></div>
         </div>
-    </div>
+    </div> <!-- Eind kaart & knoppen -->
+    <div class="spacer"></div> <!---SPACER--->
+
 
     <!-- RESULTATEN -->
     <div class="row justify-content-center resultaten-dia">
@@ -567,6 +590,7 @@
     <div class="home-info" id="nav-bronnen">
         <div class="spacer"></div> <!---SPACER--->
 
+        <!-- Titel -->
         <div class="row justify-content-center">
             <div class="col-xs-1 col-lg-5">
             </div>
@@ -577,6 +601,7 @@
             </div>
         </div>
 
+        <!-- Bronnen rij  1 -->
         <div class="row home-info justify-content-center">
             <div class="col-xs-1 col-lg-1">
             </div>
@@ -608,6 +633,7 @@
             </div>
         </div><!--row-->
 
+        <!-- Bronnen rij  2 -->
         <div class="row home-info justify-content-center">
             <div class="col-xs-1 col-lg-1">
             </div>
@@ -639,6 +665,7 @@
             </div>
         </div><!--row-->
 
+        <!-- Bronnen rij  3 -->
         <div class="row home-info justify-content-center">
             <div class="col-xs-1 col-lg-1">
             </div>
@@ -682,6 +709,9 @@
 <?php
 include $current_file_path . DIRECTORY_SEPARATOR . 'static' . DIRECTORY_SEPARATOR . 'footer.php';
 ?>
+
+
+<!-- SCRIPTS -->
 <script src="static/js/function.js"></script>
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
@@ -693,6 +723,72 @@ include $current_file_path . DIRECTORY_SEPARATOR . 'static' . DIRECTORY_SEPARATO
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
+
+<!-- Script voor vector kaart -->
+<script>
+    // Declaring the buttons
+    const btn_stad = document.getElementById('habitat_stad');
+    const btn_bos = document.getElementById('habitat_bos');
+    const btn_water = document.getElementById('habitat_water');
+    const btn_overig = document.getElementById('habitat_overig');
+    const btn_reset = document.getElementById('habitat_reset');
+
+    // Declaring the vector layers to hide
+    const hide_stad = document.getElementsByClassName('hide_stad')[0];
+    const hide_bos = document.getElementsByClassName('hide_bos')[0];
+    const hide_water = document.getElementsByClassName('hide_water')[0];
+    const hide_overig = document.getElementsByClassName('hide_overig')[0];
+
+    // Hiding the rest when clicking STAD button
+    btn_stad.addEventListener('click', () => {
+
+        // 👇️ hides element (still takes up space on page)
+        hide_stad.style.visibility = 'visible';
+        hide_bos.style.visibility = 'hidden';
+        hide_water.style.visibility = 'hidden';
+        hide_overig.style.visibility = 'hidden';
+    });
+
+    // Hiding the rest when clicking BOS button
+    btn_bos.addEventListener('click', () => {
+
+        // 👇️ hides element (still takes up space on page)
+        hide_stad.style.visibility = 'hidden';
+        hide_bos.style.visibility = 'visible';
+        hide_water.style.visibility = 'hidden';
+        hide_overig.style.visibility = 'hidden';
+    });
+
+    // Hiding the rest when clicking WATER button
+    btn_water.addEventListener('click', () => {
+
+        // 👇️ hides element (still takes up space on page)
+        hide_stad.style.visibility = 'hidden';
+        hide_bos.style.visibility = 'hidden';
+        hide_water.style.visibility = 'visible';
+        hide_overig.style.visibility = 'hidden';
+    });
+
+    // Hiding the rest when clicking OVERIG button
+    btn_overig.addEventListener('click', () => {
+
+        // 👇️ hides element (still takes up space on page)
+        hide_stad.style.visibility = 'hidden';
+        hide_bos.style.visibility = 'hidden';
+        hide_water.style.visibility = 'hidden';
+        hide_overig.style.visibility = 'visible';
+    });
+
+    // Showing everything when clicking RESET button
+    btn_reset.addEventListener('click', () => {
+
+        // 👇️ hides element (still takes up space on page)
+        hide_stad.style.visibility = 'visible';
+        hide_bos.style.visibility = 'visible';
+        hide_water.style.visibility = 'visible';
+        hide_overig.style.visibility = 'visible';
+    });
+</script>
 
 <!-- Kaart Script -->
 <script src="kaart/map.js"></script>

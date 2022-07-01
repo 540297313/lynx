@@ -61,8 +61,6 @@ body, html {
 }
 
 
-
-
 .row{
     margin-left: 0px;
     margin-right: 0px;
@@ -128,6 +126,7 @@ body, html {
     background-color: #FFF8E1;
 }
 
+
 /* DOEL */
 
 
@@ -168,6 +167,8 @@ body, html {
     color: #FFF8E1;
 }
 
+/* HABITAT */
+
 .habitat-div{
     padding-left: 3em;
 
@@ -190,22 +191,68 @@ body, html {
     margin-right: 10px;
 }
 
-#habitat-stad{
+#habitat_stad{
     background-color: #e74c3c;
     color: #FFF8E1;
+    border: none;
 }
 
-#habitat-bos{
+#habitat_bos{
     background-color: #558b2f;
     color: #FFF8E1;
+    border: none;
 }
 
-#habitat-water{
+#habitat_water{
     background-color: #2980b9;
     color: #FFF8E1;
+    border: none;
 }
 
-#habitat-land{
+#habitat_overig{
+    border: none;
+}
+
+#habitat_reset{
+    padding: 1.33em 1em 1em 1.33em;
+    background-color: #34495E;
+    color: white;
+    border: none;
+}
+
+#habitat_reset:hover {
+    background-color: #2C3E50 !important;
+    color: white !important;
+}
+
+/* Vector kaart */
+
+.vector_laag_bw{
+    position: absolute;
+    z-index: 2;
+}
+
+.vector_laag_overig{
+    position: absolute;
+    z-index: 3;
+}
+
+.vector_laag_water{
+    position: absolute;
+    z-index: 4;
+}
+
+.vector_laag_bos{
+    position: absolute;
+    z-index: 5;
+    margin-top: 11%;
+}
+
+.vector_laag_stad{
+    position: absolute;
+    z-index: 6;
+    margin-top: 19.6%;
+    margin-left: 4%;
 }
 
 
@@ -279,11 +326,15 @@ body, html {
 }
 
 .kaartknoppen{
-    /*padding: 3%;*/
+    height: 750px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align:justify;
+    scrollbar-color: #FFECB3 #FFF8E1;
+    scrollbar-width: thin;
 }
 
 .kaart{
-    /*padding: 3%;*/
 }
 
 .noBullet {
@@ -322,11 +373,11 @@ body, html {
 .seperator {
     display: block;
     overflow: hidden;
-    border-style: inset;
-    border-width: 2px;
+    border-style: solid;
+    border-width: 3px;
     margin-top: 4%;
     margin-bottom: 4%;
-    color: #FFECB3;
+    color: #34495E;
 }
 
 #buttonNatuur{
