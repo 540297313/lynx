@@ -4,9 +4,11 @@
     <list default="true" id="3e58a580-1044-452c-9407-f58663a9d301" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/oder-vector-map/vector_oderdelta_omtrek.ai" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/oder-vector-map/vector_oderdelta_omtrek.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/buiten.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/buiten2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/buiten3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/static/footer.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +70,9 @@
       <workItem from="1656324219848" duration="11716000" />
       <workItem from="1656434653352" duration="7779000" />
       <workItem from="1656494647082" duration="16382000" />
-      <workItem from="1656584415814" duration="17524000" />
+      <workItem from="1656584415814" duration="18185000" />
+      <workItem from="1656670700120" duration="544000" />
+      <workItem from="1656671276074" duration="14370000" />
     </task>
     <servers />
   </component>
